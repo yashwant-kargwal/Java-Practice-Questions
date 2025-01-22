@@ -51,5 +51,3 @@ For any issues, feel free to reach out on [issues](https://github.com/yashwant-k
 **Let's code together and make learning Java fun!** 😎
 
 Happy coding! 💻
-
-You can customize the sections and steps as needed. This `README.md` will help guide users through your repository and encourage them to contribute.
